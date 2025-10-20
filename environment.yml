@@ -1,0 +1,9 @@
+name: mattermost-backup
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - requests
+  - tqdm
+  - jinja2
+  - flask
